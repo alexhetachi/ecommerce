@@ -103,8 +103,7 @@ function Footer(props) {
 
             </div>
 
-            <div className="footer-copyright text-center py-3">© 2020 Copyright:
-            <a href="https://mdbootstrap.com/"> MDBootstrap.com</a>
+            <div className="footer-copyright text-center py-3">Alex Hetachi Webdesign. Copyright © 2021.
             </div>
 
         </footer>      
